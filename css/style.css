@@ -33,6 +33,13 @@ color: #fff !important;}
 
 	.pd{padding-top: 200px!important;}
 	.ss{height:367px !important;}
+	
+		.ujj{background: rgb(91,132,177,0.22)!important;
+    background-image: url(img/features-bg.png)!important;
+    width: 100%!important;
+    height: 713px!important;
+    margin-top: -18px;
+background-size: contain!important;}
 
 }
 
